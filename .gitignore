@@ -1,0 +1,7 @@
+# The Confgiuration files
+config
+.json
+
+.env
+env
+.log
