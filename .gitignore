@@ -2,6 +2,7 @@
 config
 .json
 
+# The environment file
 .env
 env
 .log
